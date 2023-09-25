@@ -1,0 +1,8 @@
+name: university_scraper_env
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - html5lib
+  - selenium
+  - beautifulsoup4
